@@ -1,0 +1,48 @@
+[
+  {
+    "file": "kagan.jpg",
+    "type": "official illustration",
+    "url": "https://www.nobelprize.org/uploads/2026/10/1-2_3-6ac5fc622a9b2-scaled.jpg",
+    "credit": "Niklas Elmehed © Nobel Prize Outreach",
+    "permission": "Editorial / educational use with attribution; official copyright-information page"
+  },
+  {
+    "file": "soai.jpg",
+    "type": "official illustration",
+    "url": "https://www.nobelprize.org/uploads/2026/10/2-2_3-6ac5fc699d670-scaled.jpg",
+    "credit": "Niklas Elmehed © Nobel Prize Outreach",
+    "permission": "Editorial / educational use with attribution; official copyright-information page"
+  },
+  {
+    "file": "chirality.jpg",
+    "type": "official diagram",
+    "url": "https://www.nobelprize.org/uploads/2026/10/fig2_ke_en_26-srgb-686x1024.jpg",
+    "credit": "© Johan Jarnestad/The Royal Swedish Academy of Sciences",
+    "permission": "2026 chemistry press release permits noncommercial use with attribution"
+  },
+  {
+    "file": "kagan-effect.jpg",
+    "type": "official diagram",
+    "url": "https://www.nobelprize.org/uploads/2026/10/fig4_ke_en_26-srgb-1024x666.jpg",
+    "credit": "© Johan Jarnestad/The Royal Swedish Academy of Sciences",
+    "permission": "2026 chemistry press release permits noncommercial use with attribution"
+  },
+  {
+    "file": "soai-reaction.jpg",
+    "type": "official diagram",
+    "url": "https://www.nobelprize.org/uploads/2026/10/fig6_ke_en_26-srgb-1024x696.jpg",
+    "credit": "© Johan Jarnestad/The Royal Swedish Academy of Sciences",
+    "permission": "2026 chemistry press release permits noncommercial use with attribution"
+  },
+  {
+    "file": "polarimeter.jpg",
+    "type": "historical photograph; not laureates laboratory",
+    "source": "https://commons.wikimedia.org/wiki/File:Polarimeter_in_Bureau_of_Chemistry_Carbohydrate_Laboratory_-_DPLA_-_8fe7c3af72da9f4a6a2bd853258f5701.jpg",
+    "credit": "United States Food and Drug Administration; Science History Institute / DPLA",
+    "license": "Public Domain Mark 1.0"
+  },
+  {
+    "file": "og-card.jpg",
+    "type": "original editorial card; decorative molecular motif, not structure"
+  }
+]
