@@ -4,3 +4,10 @@ section.wrap{padding-top:60px;padding-bottom:60px}@media(max-width:600px){sectio
 .catalysis-bar{display:flex;height:44px;border-radius:7px;overflow:hidden;margin:18px 0 4px;color:#fff;font:600 16px/44px system-ui;text-align:center}.catalysis-bar span:first-child{background:var(--red)}.catalysis-bar span:last-child{background:#927039}.caption{font-size:13px;color:var(--soft)}
 
 .figure-guide{padding:24px;margin:18px 0 30px;background:#f3ead8;border-left:4px solid var(--gold);border-radius:6px}.figure-guide h3{margin-top:0}.figure-guide dl{display:grid;grid-template-columns:minmax(120px,1fr) 2fr;gap:10px 20px;font-size:15px}.figure-guide dt{font-weight:600;color:var(--red)}.figure-guide dd{margin:0}.figure-guide li{margin-bottom:14px}@media(max-width:600px){.figure-guide{padding:18px}.figure-guide dl{grid-template-columns:1fr;gap:4px}.figure-guide dd{margin-bottom:12px}}
+/* Keep text readable inside dark summary cards and light nested notes. */
+.tldr h2,.tldr h3,.tldr h4,.tldr .caption{color:#fff4df}
+.tldr a{color:#ffe2a0;text-decoration:underline}
+.tldr aside{background:#f5efe0;color:#30291f}
+.tldr aside strong,.tldr aside a{color:#672329}
+.tldr .comparison article{background:#f5efe0;color:#30291f}
+.tldr .comparison article h3,.tldr .comparison article h4{color:#672329}
